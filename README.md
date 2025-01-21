@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merouanerh&label=Profile%20views&color=0e75b6&style=flat" alt="merouanerh" /> </p>
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **merouane.rahmoun@yahoo.com**
 <p align="left">
@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=merouanerh&show_icons=true&locale=en&layout=compact&theme=radical" alt="merouanerh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merouanerh&show_icons=true&locale=en&theme=radical" alt="merouanerh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merouanerh&theme=radical" alt="merouanerh" /></p>
