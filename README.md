@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merouanerh&label=Profile%20views&color=0e75b6&style=flat" alt="merouanerh" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+-  👀 I’m interested in software development, web and mobile technologies, and data engineering.
+  
+- 🌱 I’m currently learning Symfony for web development and also tackling LeetCode challenges to sharpen my problem-solving abilities.
 
 - 📫 How to reach me **merouane.rahmoun@yahoo.com**
 <p align="left">
