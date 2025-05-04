@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning Symfony for web development and also tackling LeetCode challenges to sharpen my problem-solving abilities.
 
-- 📫 How to reach me **merouane.rahmoun@yahoo.com**
+- 📫 How to reach me **merouane.rahmoun@yahoo.com** or <a href="https://www.linkedin.com/in/merouane-rahmoun/">LinkedIn</a>
 <p align="left">
 </p>
 
