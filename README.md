@@ -3,7 +3,7 @@
 Data Engineer apprentice at **Société Générale** (Snowflake, dbt) and Master's student in Computer Science & Big Data at Université Paris 8.
 I build data pipelines that can be tested, replayed and trusted: SCD2 history, incremental loads, data-quality tests and CI on every pull request.
 
-**Paris** · Looking for a permanent Data Engineer role from **September 2027** · [LinkedIn](https://www.linkedin.com/in/merouane-rahmoun/)
+[LinkedIn](https://www.linkedin.com/in/merouane-rahmoun/)
 
 ## At Société Générale (Sept 2025 – Sept 2027, apprenticeship)
 
