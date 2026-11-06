@@ -1,20 +1,54 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://www.linkedin.com/in/merouane-rahmoun/)
-<h1 align="center">Hi 👋, I'm Merouane</h1>
-<h3 align="center">A passionate computer science student</h3>
+# Merouane Rahmoun · Data Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merouanerh&label=Profile%20views&color=0e75b6&style=flat" alt="merouanerh" /> </p>
+Data Engineer apprentice at **Société Générale** (Snowflake, dbt) and Master's student in Computer Science & Big Data at Université Paris 8.
+I build data pipelines that can be tested, replayed and trusted: SCD2 history, incremental loads, data-quality tests and CI on every pull request.
 
--  👀 I’m interested in software development, web and mobile technologies, and data engineering.
-  
-- 🌱 I’m currently learning Symfony for web development and also tackling LeetCode challenges to sharpen my problem-solving abilities.
+[LinkedIn](https://www.linkedin.com/in/merouane-rahmoun/)
 
-- 📫 How to reach me **merouane.rahmoun@yahoo.com** or <a href="https://www.linkedin.com/in/merouane-rahmoun/">LinkedIn</a>
-<p align="left">
-</p>
+## At Société Générale (Sept 2025 – Sept 2027, apprenticeship)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+- Implement the physical data model in SQL with dbt on Snowflake, integrating many heterogeneous source systems.
+- Build delta-load pipelines with SCD2 history and audit tables, so any load can be replayed and data can be read as of a past date for regulatory needs.
+- Automate dbt tests, generate documentation from the code and validate every pull request in CI.
+- Built a shared library of reusable GitHub Actions (build, test, deploy) and migrated the team's repositories to it.
+- Maintain pipelines during the migration of the on-premise Data Lake to Snowflake (Maven packaging, unit tests, CI/CD).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=merouanerh&show_icons=true&locale=en&layout=compact&theme=radical" alt="merouanerh" /></p>
+## Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merouanerh&show_icons=true&locale=en&theme=radical" alt="merouanerh" /></p>
+### [wiki-stream-pipeline](https://github.com/MerouaneRH/wiki-stream-pipeline): real-time streaming lakehouse
+
+Live Wikipedia edits (about 50 events/s) flow through Redpanda and Spark Structured Streaming into a Delta Lake medallion (bronze / silver / gold), then into a live Streamlit dashboard.
+
+- Exactly-once tables from an at-least-once producer: insert-only MERGE dedup, late-event handling, restart after a cut.
+- Replayed on Databricks Free Edition: 15,500 events processed with no duplicates; p95 latency cut from 42.9 s to 33.4 s (−22 %).
+- 99 automated tests and GitHub Actions CI, including a Redpanda integration test.
+
+`Python` `Redpanda/Kafka` `Spark Structured Streaming` `Delta Lake` `Databricks` `Streamlit` `GitHub Actions`
+
+### [detection-fraude-bancaire](https://github.com/MerouaneRH/detection-fraude-bancaire): batch + streaming fraud detection
+
+End-to-end Spark/Scala pipeline: ingestion, cleaning with rejected-row reasons, fraud scoring and a dashboard, in batch and in streaming.
+
+- A RandomForest (MLlib) model reaches 0.892 precision and 0.776 recall on 284,807 real card transactions (one train/test split, documented as such).
+- Batch and streaming share the same validation code; a mutation check proves the streaming dedup test fails without `dropDuplicates`.
+
+`Scala` `Spark SQL` `Structured Streaming` `MLlib` `Parquet` `DuckDB` `Streamlit`
+
+### [nyc-taxi-pipeline](https://github.com/MerouaneRH/nyc-taxi-pipeline): ELT on 118M taxi trips
+
+ELT pipeline on about 118 million New York taxi trips (32 months): Python ingestion to S3 with retries and duplicate-free re-runs, Athena queries, dbt models (SCD2 dimension, monthly incremental facts, marts, 54 data-quality tests).
+
+- Airflow on Docker Compose detects newly published months automatically.
+- GitHub Actions CI runs a real `dbt build` on AWS with no stored keys.
+- A 7-view Streamlit dashboard; 6 quality rules isolated more than 650,000 trips with inconsistent timestamps from a single vendor.
+
+`Python` `SQL` `dbt` `Airflow` `AWS S3 / Athena / Glue` `Docker` `GitHub Actions` `Streamlit`
+
+## Stack
+
+- **Data:** SQL, dbt, Snowflake (Snowpark), Spark (PySpark, Scala, Structured Streaming), Kafka / Redpanda, Delta Lake, Airflow
+- **Platforms:** Databricks, AWS (S3, Athena, Glue)
+- **Engineering:** Python, Scala, Java, Git, GitHub Actions, Docker, Bash
+- **Quality:** dbt tests, data-quality rules, unit and integration tests, TDD
+
+**Languages:** French (fluent), English (advanced), Arabic (native)
