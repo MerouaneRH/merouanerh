@@ -34,9 +34,6 @@ End-to-end Spark/Scala pipeline: ingestion, cleaning with rejected-row reasons, 
 
 `Scala` `Spark SQL` `Structured Streaming` `MLlib` `Parquet` `DuckDB` `Streamlit`
 
-<!--
-  Enable this block once MerouaneRH/nyc-taxi-pipeline is public (it is private today, so the link would 404 for visitors).
-
 ### [nyc-taxi-pipeline](https://github.com/MerouaneRH/nyc-taxi-pipeline): ELT on 118M taxi trips
 
 ELT pipeline on about 118 million New York taxi trips (32 months): Python ingestion to S3 with retries and duplicate-free re-runs, Athena queries, dbt models (SCD2 dimension, monthly incremental facts, marts, 54 data-quality tests).
@@ -46,7 +43,6 @@ ELT pipeline on about 118 million New York taxi trips (32 months): Python ingest
 - A 7-view Streamlit dashboard; 6 quality rules isolated more than 650,000 trips with inconsistent timestamps from a single vendor.
 
 `Python` `SQL` `dbt` `Airflow` `AWS S3 / Athena / Glue` `Docker` `GitHub Actions` `Streamlit`
--->
 
 ## Stack
 
