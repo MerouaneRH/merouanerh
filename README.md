@@ -11,7 +11,7 @@ I build data pipelines that can be tested, replayed and trusted: SCD2 history, i
 - Build delta-load pipelines with SCD2 history and audit tables, so any load can be replayed and data can be read as of a past date for regulatory needs.
 - Automate dbt tests, generate documentation from the code and validate every pull request in CI.
 - Built a shared library of reusable GitHub Actions (build, test, deploy) and migrated the team's repositories to it.
-- Maintain Spark pipelines during the migration of the on-premise Data Lake to Snowflake (Maven packaging, unit tests, CI/CD).
+- Maintain pipelines during the migration of the on-premise Data Lake to Snowflake (Maven packaging, unit tests, CI/CD).
 
 ## Projects
 
